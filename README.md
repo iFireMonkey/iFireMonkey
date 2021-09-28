@@ -9,6 +9,6 @@ Hiya, my name is Ricky Owens, also known as FireMonkey online. I'm a person who 
 * **[Byte API](https://github.com/Furry/byte-api) | By [Furry](https://github.com/Furry)**
   * **Description:** A simple API Wrapper around the Byte.co app, utilizing node-fetch as the http client w\ proxy support.
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=iFireMonkey&&show_icons=true&title_color=ffffff&icon_color=98ff98&text_color=98ff98&bg_color=151515" alt="Github Stats"/>
-</p>
+## Games i'm tracking changes to:
+* **[Fortnite](https://github.com/iFireMonkey/FortniteTracker)**
+* **[Splitgate](https://github.com/iFireMonkey/SplitgateTracker)**
