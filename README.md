@@ -5,10 +5,12 @@ Hiya, my name is Ricky Owens, also known as FireMonkey online. I'm a person who 
 ## Projects i've helped with:
 
 * **[FModel](https://github.com/iAmAsval/FModel) | By [Asval](https://github.com/iAmAsval)**
-  * **Description:** FModel is a .PAK file explorer fully dedicated to Fortnite but also work with some other Unreal Engine's games.
+  * **Description:** Software for exploring UE4-5 games' files
 * **[Byte API](https://github.com/Furry/byte-api) | By [Furry](https://github.com/Furry)**
-  * **Description:** A simple API Wrapper around the Byte.co app, utilizing node-fetch as the http client w\ proxy support.
+  * **Description:** A Javascript wrapper for the byte.co app.
 
-## Games i'm tracking changes to:
+## Games i'm tracking:
 * **[Fortnite](https://github.com/iFireMonkey/FortniteTracker)**
+  * **Description:** 🔎 A tracker for the various Fortnite Files
 * **[Splitgate](https://github.com/iFireMonkey/SplitgateTracker)**
+  * **Description:** 🔎 A tracker for the various Splitgate Files
