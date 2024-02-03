@@ -1,6 +1,6 @@
 # Welcome to my Humble Code Abode
 
-Hiya, my name is Ricky Owens, also known as FireMonkey online. I'm a person who hops from language to language, depending on which I feel is the best for the specifc project i'm working on at any given time.
+Hiya, my name is FireMonkey. I'm a person who doesn't really know what he is doing online, but is doing it anyways.
 
 ## Projects i've helped with:
 
